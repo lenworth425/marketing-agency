@@ -7,6 +7,9 @@
 body {
     background-color: #d9dcd6;
 }
+header{
+    background-color: #2a607c;
+}
 
 .header {
     padding: 20px;
@@ -119,18 +122,21 @@ p {
 .benefit-lead img {
     display: block;
     margin: 10px auto;
+    max-height: 150px;
     max-width: 150px;
 }
 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
+    max-height: 150px;
     max-width: 150px;
 }
 
 .benefit-cost img {
     display: block;
     margin: 10px auto;
+    max-height: 150px;
     max-width: 150px;
 }
 
@@ -186,6 +192,11 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+footer {
+    padding: 30px;
+    text-align: center;
 }
 
 .footer {
